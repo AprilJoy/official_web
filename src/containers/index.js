@@ -2,6 +2,7 @@ import React from 'react';
 // import package
 import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import 'ress/dist/ress.min.css';
+import 'font-awesome/css/font-awesome.min.css';
 
 // import relative path
 import Home from './Home';
